@@ -1,3 +1,7 @@
+window.addEventListener('load', (event) => {
+  console.log('page is fully loaded');
+});
+
 const WHITE_KEYS = ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';']
 const BLACK_KEYS = ['w', 'e', 'r', 't', 'y', 'u', 'i', 'o']
 
