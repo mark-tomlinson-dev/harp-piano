@@ -2,7 +2,7 @@
 *::after,
 *::before {
   box-sizing: border-box;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 body {
@@ -40,12 +40,6 @@ body {
   padding: 6rem 3rem 1.5rem;
   background: #222;
   border-radius: 14px;
-}
-
-p {
-  color: #fff;
-  padding: 2em;
-  text-transform: lowercase;
 }
 
 .key {
