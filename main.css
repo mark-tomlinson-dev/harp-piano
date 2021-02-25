@@ -2,9 +2,7 @@
 *::after,
 *::before {
   box-sizing: border-box;
-  /* font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif; */
   font-family: 'Roboto Mono', monospace;
-
 }
 
 body {
